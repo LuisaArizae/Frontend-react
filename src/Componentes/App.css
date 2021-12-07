@@ -1,0 +1,50 @@
+
+.container-fluid {
+  background-color:#eeee;
+  min-height: 100vh;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container-fluid .abs  {
+  color: z;
+  
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+.pro{
+  color:black;
+  font-weight: 550;
+
+}
+a:hover {
+  text-decoration: none;
+  color: rgba(175, 61, 124, 0.836);
+}
+.nav-wrapper{
+  background: #fff;
+  height: 50px;
+}
+.brand-logo{
+  height: 2px;
+  border-color: red;
+}
+.line{
+  margin-top: 0%;
+  height: 2px;
+  border-color: #fabbaf;
+  background: #fabbaf;
+  
+}
+img{
+  height: 70px;
+  width: 90px;
+}
+
+nav .brand-logo.left{
+  color: black;
+  font-size:18px;
+  margin-left: 10px;
+}
